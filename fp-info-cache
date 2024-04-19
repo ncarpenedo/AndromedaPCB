@@ -1,4 +1,4 @@
-23906063062684769
+23907776578047464
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53647,6 +53647,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+Custom
+NCD9830
+
+
+0
+0
+0
 DRV8870DDA
 WSON_212DSGR_TEX
 

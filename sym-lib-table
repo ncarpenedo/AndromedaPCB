@@ -150,4 +150,5 @@
   (lib (name "dk_Data-Acquisition-ADCs-DACs-Special-Purpose")(type "Legacy")(uri "C:/Users/nick/Downloads/digikey-kicad-library-master/digikey-kicad-library-master/digikey-symbols/dk_Data-Acquisition-ADCs-DACs-Special-Purpose.lib")(options "")(descr ""))
   (lib (name "dk_DC-DC-Converters")(type "Legacy")(uri "C:/Users/nick/Downloads/digikey-kicad-library-master/digikey-kicad-library-master/digikey-symbols/dk_DC-DC-Converters.lib")(options "")(descr ""))
   (lib (name "dk_D-Sub-Connectors")(type "Legacy")(uri "C:/Users/nick/Downloads/digikey-kicad-library-master/digikey-kicad-library-master/digikey-symbols/dk_D-Sub-Connectors.lib")(options "")(descr ""))
+  (lib (name "NCD9830")(type "KiCad")(uri "${KIPRJMOD}/Custom CAD Files/NCD9830.kicad_sym")(options "")(descr ""))
 )
